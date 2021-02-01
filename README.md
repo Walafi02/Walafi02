@@ -8,7 +8,7 @@
   [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:walafif81@gmail.com)](mailto:walafif81@gmail.com)
 </div>
 
-- 🔭 I’m currently working on [Trixlog Brasil](https://www.trixlog.com/)
+- 🔭 I’m currently working on [Everymind](https://www.everymind.com.br/)
 - 🌱 I’m currently learning typescript
 - 🤔 I’m looking for help with on [Rocketseat](https://github.com/Rocketseat)
 - 💬 Ask me about **React** and **React Native**
